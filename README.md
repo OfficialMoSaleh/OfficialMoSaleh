@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Mohamed Saleh</h1>
 <h3 align="left">I'm a passionate Frontend web developer. I have a solid experience in designing and building web apps. </h3>
 
-- 👨‍💻 All of my projects are available at [Github-Repositories](https://github.com/Saleh0987?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github-Repositories](https://github.com/OfficialMoSaleh)
 
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/saleh23/)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/muhammadmahfouz/)
 
 - 💬 Ask me about *"Everything related to front-end web development."*
 
--   My [Portfolio](https://mohamed-saleh.vercel.app/)
+-   My [Portfolio](https://muhammadsaleh.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
