@@ -39,7 +39,7 @@
   
 <a href="https://twitter.com/OfficialMoSaleh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elsaleh23" height="30" width="40" /></a>
   
-<a href="https://linkedin.com/in/saleh23/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saleh23/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saleh23/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadmahfouz/" height="30" width="40" /></a>
   
 <a href="https://stackoverflow.com/users/16542184/moo-saleh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16542184/moo-saleh" height="30" width="40" /></a>
 
